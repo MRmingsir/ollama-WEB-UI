@@ -8,7 +8,6 @@
 
 - streamlit
 - requests
-- psutil
 
 ## 安装和运行
 
