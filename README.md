@@ -1,4 +1,4 @@
-# Ollama 聊天界面
+# Ollama 聊天界面-可视化面板
 
 这是一个基于Streamlit的Ollama聊天界面，使用嵌入式Python 3.12.6。
 
